@@ -1,4 +1,4 @@
-# 🛡️ VİRANORA - The Brutally Honest AI Project Manager
+# The Brutally Honest AI Project Manager
 
 > **"Bahaneleri bırak. Gerçeklerle yüzleş. Harekete geç."**
 
